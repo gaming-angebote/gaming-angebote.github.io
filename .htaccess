@@ -1,3 +1,7 @@
 RewriteEngine On
 RewriteCond %{HTTP_HOST} !^gaming-angebote.github.io$
 RewriteRule ^(.*)$ https://gaming-angebote.github.io/$1 [R=301,L]
+ErrorDocument 400 https://gaming-angebote.github.io/home.html
+ErrorDocument 403 https://gaming-angebote.github.io/home.html
+ErrorDocument 404 https://gaming-angebote.github.io/home.html
+ErrorDocument 500 https://gaming-angebote.github.io/home.html

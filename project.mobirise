@@ -23,10 +23,10 @@
         "display7Size": "0.925",
         "display4Font": "Roboto",
         "display4Size": "0.9",
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isGhostButtonBorder": false,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
@@ -50,7 +50,7 @@
     "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "dtk0ud8krr",
+    "mbrsiteDomain": "pgttwl3c1p",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,

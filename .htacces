@@ -1,3 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} !^gaming-angebote.github.io$
-RewriteRule ^(.*)$ https://gaming-angebote.github.io/$1 [R=301,L]
